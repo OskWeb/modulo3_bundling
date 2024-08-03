@@ -30,7 +30,6 @@ export default {
     ],
   },
   devServer: {
-    //static: path.join(__dirname, "./src"),
     port: 8081,
   },
   plugins: [
